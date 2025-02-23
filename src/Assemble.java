@@ -1,0 +1,3 @@
+interface Assemble {
+    void assemble();
+}
